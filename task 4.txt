@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+File.fpointer
+fpointer =fopen("adding.text","w+");
+int no1 = 2 ;
+int no2 = 6 ;
+fprintf(fpointer, no1 \t no2);
+fprintf (fpointer , no1 + no2)
+fclose(fpointer);
+    return 0;
+}
